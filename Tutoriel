@@ -1,0 +1,17 @@
+What is Report
+
+A report is meaningful and well summarized information of data from the database. Usually the routine activities are automated and data summarized into a decision-supporting format "Reports". Reports act as wonders when it converts the usual messy data into charming charts, graphs and other graphical representations.
+Report template
+
+Generally the following report layout is followed to generate reports by many of the commercial report generating tools.
+Report Template
+
+Following is the description of each element mentioned in the diagram.
+Element	Description
+title	Title contains the title of the report. It appears only once at the very beginning of the report, for example, "Tutorials Point Report".
+pageHeader	PageHeader may contain date and time information and/or organization name. This appears at top of each page.
+columnHeader	ColumnHeader lists the names of those specific fields which you want to display in the report, for example, "Author Name", "Starting Hour", "Finishing Hour", "Hours Worked" and "Date" etc.
+detail	Detail is the part where entries of the specific fields (listed in columnHeader) are shown, for example "Manisha", "9:00", "18:00", "9", "10.02.2013".
+columnFooter	ColumnFooter may display summation of any of the fields, for example, "Total Hours Worked: 180"
+pageFooter	PageFooter may contain page count information. It appears at the bottom of each page, for example, "1/23".
+summary	Summary contains information inferred from "detail" part, for example, After the number listing of worked hours for each author, total hours worked for each author can be put in visual chart like pie chart, graph, etc for better comparison.

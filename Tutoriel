@@ -11,12 +11,17 @@ Following is the description of each element mentioned in the diagram.
 Element	Description
 
 1.Title:	Title contains the title of the report. It appears only once at the very beginning of the report, for example, "Invoice".
+
 2.Page Header:	Page Header may contain date and time information and/or organization name. This appears at top of each page.
 i.e: Date: 17-03-2014   Client : Johnny Nassif    Invoice ID: 2658426
+
 3.Column Header:	Column Header lists the names of those specific fields which you want to display in the report, for example, "Product", "Description", "Qty", "Unit Price" and "Total" etc.
 4.Detail:	Detail is the part where entries of the specific fields (listed in Column Header) are shown, for example:
 "Pepsi", "1.25 L", "5", "1500", "7500"
 "Twix", "extra 25% crunch", "2", "750", "1500".
+
 5.Column Footer:	Column Footer may display summation of any of the fields, for example, "Total Amount: 9000"
+
 6.Page Footer:	Page Footer may contain page count information. It appears at the bottom of each page, for example, "Le Mall - Dbayeh ".
+
 7.Summary:	Summary contains information inferred from "detail" part, for example, After the listing of amount for each product, total amount can be put in visual chart like pie chart, graph, etc for better comparison.

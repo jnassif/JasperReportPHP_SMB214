@@ -3,7 +3,7 @@ Jasper Report is an open source java reporting engine, is Java based and doesn't
 
 As JasperReports is a Java class library, and is not meant for end users, but rather is targeted towards developers who need to add reporting capabilities to their applications.
 
-#JRXML
+##JRXML
 
 JasperReports reports are defined in an XML file format, called JRXML, which can be hand-coded, generated, or designed using a tool ( For this project we will use iReport). The file format is defined by a Document Type Definition (DTD) or XML schema for newer versions, providing limited interoperability.
 

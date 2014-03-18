@@ -9,10 +9,10 @@ JasperReports reports are defined in an XML file format, called JRXML, which can
 
 The main difference between using XML and a .jasper file is that the XML file should be compiled at runtime using the JasperCompileManager class.
 
-#Requirements
+##Requirements
 
 
-#Installation
+##Installation
 To start using iReport, we must first download and install one. Below are the instructions for installing and running iReport in Windows :
 
 1. Open a browser and visit the iReport site at http://jasperforge.org/projects/ireport
@@ -24,7 +24,7 @@ You should see the following options:
 
 4. Once the download is finished, install it.
 
-#License
+##License
 Copyright (C) 2014 Johnny Nassif, CNAM Liban
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:

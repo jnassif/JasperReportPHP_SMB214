@@ -3,13 +3,15 @@ Jasper Report is an open source java reporting engine, is Java based and doesn't
 
 As JasperReports is a Java class library, and is not meant for end users, but rather is targeted towards developers who need to add reporting capabilities to their applications.
 
-
-#Features
-
-    
-
 #Requirements
 
-    PHP 5.3
-    SOAP pear package (http://pear.php.net/package/SOAP/)
-    Net_Dime pear package (http://pear.php.net/package/Net_DIME/)
+#Installation
+
+#License
+Copyright (C) 2014 Johnny Nassif, CNAM Liban
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

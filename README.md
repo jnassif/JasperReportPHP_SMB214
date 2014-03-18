@@ -9,6 +9,7 @@ As JasperReports is a Java class library, and is not meant for end users, but ra
 To start using iReport, we must first download and install one. Below are the instructions for installing and running iReport in Windows :
 
 Windows
+
 1. Open a browser and visit the iReport site at http://jasperforge.org/projects/ireport
 
 2. Click on the download button. It will ask you to register first, but you can skip it.

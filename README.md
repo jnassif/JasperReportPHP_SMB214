@@ -10,7 +10,7 @@ JasperReports reports are defined in an XML file format, called JRXML, which can
 The main difference between using XML and a .jasper file is that the XML file should be compiled at runtime using the JasperCompileManager class.
 
 #Requirements
-1. Windows OS
+1. Windows OS : Windows Vista - 7 - 8
 2. Jasper Report IDE i.e: iReport 
 3. Tomcat Web Server
 4. JDBC 2.0 Driver

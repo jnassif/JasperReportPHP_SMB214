@@ -29,4 +29,4 @@ You should see the following options:
 4. Once the download is finished, install it.
 
 #Documentation
-You can access the tutorial of the wiki page . https://github.com/jnassif/JasperReport_SMB214/wiki
+You can access the tutorial of the **wiki** page . https://github.com/jnassif/JasperReport_SMB214/wiki
